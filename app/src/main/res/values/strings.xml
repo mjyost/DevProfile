@@ -2,8 +2,12 @@
     <string name="app_name">DevProfile</string>
     <string name="banner">Banner</string>
     <string name="logo">Logo</string>
-    <string name="devslopes">Devslopes</string>
+    <string name="name">Devslopes</string>
     <string name="camerapic">cameraPic</string>
     <string name="favoritespic">favoritesPic</string>
     <string name="inboxpic">inboxPic</string>
+    <string name="datapic">datapic</string>
+    <string name="picturespic">picturespic</string>
+    <string name="videospic">videospic</string>
+    <string name="codepic">codepic</string>
 </resources>
